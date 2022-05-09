@@ -1,3 +1,5 @@
+// some o marketValue de todas as companhias
+
 const companies = [
     { name: 'Samsung', marketValue: 50, CEO: 'Kim Hyun Suk', foundedOn: 1938 },
     { name: 'Microsoft', marketValue: 415, CEO: 'Satya Nadella', foundedOn: 1975 },
